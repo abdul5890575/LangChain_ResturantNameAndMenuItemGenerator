@@ -1,0 +1,6 @@
+# Ignore OpenAI keys
+secretekeys.py
+
+# Ignore Python virtual environment
+venv/
+.env
