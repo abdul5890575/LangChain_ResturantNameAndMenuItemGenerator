@@ -1,6 +1,6 @@
 # Restaurant Name & Menu Item Generator
 
-![App Screenshot](app screenshot.png)
+![App Screenshot](scr.png)
 
 ## Description
 
